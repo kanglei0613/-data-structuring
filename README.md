@@ -14,10 +14,10 @@
 - 將資料結構概念轉換為可執行程式碼
 
 ## 建議閱讀順序
-1. [`exlotto.py`](src/exlotto.py)  
+1. [`exlotto.py`](src/exlotto.py)+[`exlotto.ipynb`](highlighted/exlotto.ipynb)
    - 主打：以 Python 撰寫的資料結構與邏輯實作，展示程式結構、命名與可讀性
 
-2. [`41090530495張康磊_期末作業.ipynb`](41090530495張康磊_期末作業.ipynb)  
+2. [`data_structuring_專案.ipynb`](highlighted/data_structuring_專案.ipynb)  
    - 加分：整合型資料結構作業，展示問題拆解與實作能力
 
 ## Repo 結構說明
